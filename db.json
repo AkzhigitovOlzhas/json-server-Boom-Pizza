@@ -1,31 +1,304 @@
 {
-    "posts": [
+    "pizza": [
         {
-          "id": 1,
-          "title": "Post 1"
+          "name": "Пепперони", 
+          "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/product1-big.jpg?raw=true",
+          "description":"Энергетическая ценность 199,6 ккал Пищевая ценность продукта на 100г: Углеводы 24,4г Белки 8,8г Жиры 7,4г",
+          "values":[
+              {
+                  "value":"25 см - 300 руб.",
+                  "weight":400,
+                  "cost":300
+              },
+              {
+                  "value":"30 см - 400 руб.",
+                  "weight":450,
+                  "cost":400
+              },
+              {
+                  "value":"35 см - 500 руб.",
+                  "weight":550,
+                  "cost":500
+              }
+          ] 
         },
         {
-          "id": 2,
-          "title": "Post 2"
+          "name": "Европейская", 
+          "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/product2.jpg?raw=true",
+          "description":"Фирменный томатный соус «Pizza Mia», томаты, двойная порция сыра моцарелла. Калорийность: 186 ккал Углеводы 24 г. Белки 8 г. Жиры 7 г",
+          "values":[
+              {
+                  "value":"25 см - 300 руб.",
+                  "weight":400,
+                  "cost":300
+              },
+              {
+                  "value":"30 см - 400 руб.",
+                  "weight":450,
+                  "cost":400
+              },
+              {
+                  "value":"35 см - 500 руб.",
+                  "weight":550,
+                  "cost":500
+              }
+          ] 
         },
         {
-          "id": 3,
-          "title": "Post 3"
+          "name": "Марио", 
+          "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/product3.jpg?raw=true",
+          "description":"Энергетическая ценность 139,2 ккал Пищевая ценность продукта на 100 г: Углеводы 20,4 г Белки 7,8 г Жиры 9,4 г",
+          "values":[
+              {
+                  "value":"25 см - 300 руб.",
+                  "weight":400,
+                  "cost":300
+              },
+              {
+                  "value":"30 см - 400 руб.",
+                  "weight":450,
+                  "cost":400
+              },
+              {
+                  "value":"35 см - 500 руб.",
+                  "weight":550,
+                  "cost":500
+              }
+          ] 
+        },
+        {
+          "name": "Королевская", 
+          "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/product4.jpg?raw=true",
+          "description":"Энергетическая ценность 199,6 ккал Пищевая ценность продукта на 100 г: Углеводы 24,4 г Белки 8,8 г Жиры 7,4 г",
+          "values":[
+              {
+                  "value":"25 см - 300 руб.",
+                  "weight":400,
+                  "cost":300
+              },
+              {
+                  "value":"30 см - 400 руб.",
+                  "weight":450,
+                  "cost":400
+              },
+              {
+                  "value":"35 см - 500 руб.",
+                  "weight":550,
+                  "cost":500
+              }
+          ] 
+        },
+        {
+          "name": "Маргарита", 
+          "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/product5.jpg?raw=true",
+          "description":"Энергетическая ценность 220,6 ккал Пищевая ценность продукта на 100 г: Углеводы 34,4 г Белки 4,8 г Жиры 17,4 г",
+          "values":[
+              {
+                  "value":"25 см - 300 руб.",
+                  "weight":400,
+                  "cost":300
+              },
+              {
+                  "value":"30 см - 400 руб.",
+                  "weight":450,
+                  "cost":400
+              },
+              {
+                  "value":"35 см - 500 руб.",
+                  "weight":550,
+                  "cost":500
+              }
+          ] 
+        },
+        {
+          "name": "Мясная", 
+          "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/product5.jpg?raw=true",
+          "description":"Энергетическая ценность 199,6 ккал Пищевая ценность продукта на 100 г: Углеводы 24,4 г Белки 8,8 г Жиры 7,4 г",
+          "values":[
+              {
+                  "value":"25 см - 300 руб.",
+                  "weight":400,
+                  "cost":300
+              },
+              {
+                  "value":"30 см - 400 руб.",
+                  "weight":450,
+                  "cost":400
+              },
+              {
+                  "value":"35 см - 500 руб.",
+                  "weight":550,
+                  "cost":500
+              }
+          ] 
+        },
+        {
+          "name": "Грибная", 
+          "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/product6.jpg?raw=true",
+          "description":"Энергетическая ценность 199,6 ккал Пищевая ценность продукта на 100 г: Углеводы 24,4 г Белки 8,8 г Жиры 7,4 г",
+          "values":[
+              {
+                  "value":"25 см - 300 руб.",
+                  "weight":400,
+                  "cost":300
+              },
+              {
+                  "value":"30 см - 400 руб.",
+                  "weight":450,
+                  "cost":400
+              },
+              {
+                  "value":"35 см - 500 руб.",
+                  "weight":550,
+                  "cost":500
+              }
+          ] 
+        },
+        {
+          "name": "Баварская", 
+          "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/product7.jpg?raw=true",
+          "description":"Энергетическая ценность 199,6 ккал Пищевая ценность продукта на 100 г: Углеводы 24,4 г Белки 8,8 г Жиры 7,4 г",
+          "values":[
+              {
+                  "value":"25 см - 300 руб.",
+                  "weight":400,
+                  "cost":300
+              },
+              {
+                  "value":"30 см - 400 руб.",
+                  "weight":450,
+                  "cost":400
+              },
+              {
+                  "value":"35 см - 500 руб.",
+                  "weight":550,
+                  "cost":500
+              }
+          ] 
         }
       ],
-      "comments": [
+      "snacks": [
         {
-          "id": 1,
-          "body": "some comment",
-          "postId": 1
-        },
+          "name":"Куриные крылышки",
+          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/chicken.jpg?raw=true",
+          "weight":120,
+          "cost":140
+        }, 
         {
-          "id": 2,
-          "body": "some comment",
-          "postId": 1
+          "name":"Картофель фри",
+          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/fri.jpg?raw=true",
+          "weight":100,
+          "cost":70 
+        }, 
+        {
+          "name":"Сырные шарики",
+          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/shariki.jpg?raw=true",
+          "weight":100,
+          "cost":120
+        }, 
+        {
+          "name":"Шаурма с курицей",
+          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/shaurma1.jpg?raw=true",
+          "weight":200,
+          "cost":100
+        }, 
+        {
+          "name":"Шаурма со свининой",
+          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/shaurma1.jpg?raw=true",
+          "weight":200,
+          "cost":150
+        }, 
+        {
+          "name":"Гирос",
+          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/giros.jpg?raw=true",
+          "weight":170,
+          "cost":150
+        }, 
+        {
+          "name":"Кесадилья с курицей",
+          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/kesa.jpg?raw=true",
+          "weight":110,
+          "cost":135
+        }, 
+        {
+          "name":"Чесночные гренки",
+          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/grenki.jpg?raw=true",
+          "weight":70,
+          "cost":110
         }
       ],
-      "profile": {
-        "name": "typicode"
-      }
+      "salads": [
+          {
+              "name":"Цезарь с курицей",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/ffe6f918-b9b2-414a-be63-a80b0084e5ba.jpg?raw=true",
+              "weight": 120,
+              "cost": 150
+          },
+          {
+              "name":"Цезарь с креветками",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/2228eebf-07f6-409e-9115-a80b00848791.jpg?raw=true",
+              "weight": 120,
+              "cost": 170
+          },
+          {
+              "name":"Салат фунчоза с креветками",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/75bad6b6-c44b-466d-a59d-a81600965785.jpg?raw=true",
+              "weight": 100,
+              "cost": 130
+          },
+          {
+              "name":"Греческий",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/3.jpg?raw=true",
+              "weight": 120,
+              "cost": 150
+          }
+      ],
+      "desserts": [
+          {
+              "name": "Чизкейк классический",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/chizkeyk1.jpg?raw=true",
+              "weight": 70,
+              "cost": 120
+          },
+          {
+              "name": "Чизкейк шоколадный",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/chizkeyk2.jpg?raw=true",
+              "weight": 70,
+              "cost": 120
+          },
+          {
+              "name": "Тирамису",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/tiramissu.jpg?raw=true",
+              "weight": 90,
+              "cost": 140
+          },
+          {
+              "name": "Маффин шоколадный",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/maffin.jpg?raw=true",
+              "weight": 70,
+              "cost": 90
+          }
+      ],
+      "beverages": [
+          {
+              "name": "Кока-Кола, 1 л",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/cola.jpg?raw=true",
+              "cost": 90
+          },
+          {
+              "name": "Спрайт, 1 л",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/sprite.jpg?raw=true",
+              "cost": 90
+          },
+          {
+              "name": "Фанта, 1 л",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/fanta.jpg?raw=true",
+              "cost": 90
+          },
+          {
+              "name": "kozel светлое, 0.5 л",
+              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/kozel.jpg?raw=true",
+              "cost": 120
+          }
+      ]
 }
