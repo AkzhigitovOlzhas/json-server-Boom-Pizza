@@ -177,56 +177,6 @@
           ] 
         }
       ],
-      "snacks": [
-        {
-          "name":"Куриные крылышки",
-          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/chicken.jpg?raw=true",
-          "weight":120,
-          "cost":140
-        }, 
-        {
-          "name":"Картофель фри",
-          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/fri.jpg?raw=true",
-          "weight":100,
-          "cost":70 
-        }, 
-        {
-          "name":"Сырные шарики",
-          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/shariki.jpg?raw=true",
-          "weight":100,
-          "cost":120
-        }, 
-        {
-          "name":"Шаурма с курицей",
-          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/shaurma1.jpg?raw=true",
-          "weight":200,
-          "cost":100
-        }, 
-        {
-          "name":"Шаурма со свининой",
-          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/shaurma1.jpg?raw=true",
-          "weight":200,
-          "cost":150
-        }, 
-        {
-          "name":"Гирос",
-          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/giros.jpg?raw=true",
-          "weight":170,
-          "cost":150
-        }, 
-        {
-          "name":"Кесадилья с курицей",
-          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/kesa.jpg?raw=true",
-          "weight":110,
-          "cost":135
-        }, 
-        {
-          "name":"Чесночные гренки",
-          "img":"https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/grenki.jpg?raw=true",
-          "weight":70,
-          "cost":110
-        }
-      ],
       "salads": [
           {
               "name":"Цезарь с курицей",
