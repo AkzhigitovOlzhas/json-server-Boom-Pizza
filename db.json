@@ -177,32 +177,6 @@
           ] 
         }
       ],
-      "salads": [
-          {
-              "name":"Цезарь с курицей",
-              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/ffe6f918-b9b2-414a-be63-a80b0084e5ba.jpg?raw=true",
-              "weight": 120,
-              "cost": 150
-          },
-          {
-              "name":"Цезарь с креветками",
-              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/2228eebf-07f6-409e-9115-a80b00848791.jpg?raw=true",
-              "weight": 120,
-              "cost": 170
-          },
-          {
-              "name":"Салат фунчоза с креветками",
-              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/75bad6b6-c44b-466d-a59d-a81600965785.jpg?raw=true",
-              "weight": 100,
-              "cost": 130
-          },
-          {
-              "name":"Греческий",
-              "img": "https://github.com/AkzhigitovOlzhas/Boom-pizza/blob/main/img/products/3.jpg?raw=true",
-              "weight": 120,
-              "cost": 150
-          }
-      ],
       "desserts": [
           {
               "name": "Чизкейк классический",
